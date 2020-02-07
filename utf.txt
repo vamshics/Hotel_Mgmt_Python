@@ -1,0 +1,2 @@
+What is the use of Ascii code and Unicode?
+ASCII and Unicode are two encoding standards in electronic communication. They are used to represent text in computers, in telecommunication devices and other equipment. ASCII encodes 128 characters. It includes English letters, numbers from 0 to 9 and a few other symbols
